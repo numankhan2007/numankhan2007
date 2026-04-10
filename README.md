@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Numan Khan 👋</h1>
 
 <p align="center">
-  <em>BCA 2nd Year Student • Web Developer • Open Source Enthusiast</em>
+  <em>BCA pursuing • Web Developer • Open Source Enthusiast</em>
 </p>
 
 ---
