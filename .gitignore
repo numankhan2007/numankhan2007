@@ -1,0 +1,13 @@
+# PDF guides - not needed on profile
+*.pdf
+
+# Source photo - embedded in SVGs
+1000056076.jpg
+
+# Python generator - keep locally, not needed on profile
+banner_generator.py
+
+# Python cache
+__pycache__/
+*.pyc
+*.npy
